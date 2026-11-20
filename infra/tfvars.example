@@ -1,0 +1,8 @@
+# Terraform Variables Example
+# 复制此文件为 tfvars.dev 并填入实际值
+
+region           = "cn-north-4"
+project_name     = "prompt-chaining"
+maas_api_key    = "your-api-key-here"
+maas_model       = "deepseek-v4"
+maas_chat_base_url = "https://api.modelarts-maas.com/v2"
