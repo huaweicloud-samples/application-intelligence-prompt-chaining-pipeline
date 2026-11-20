@@ -1,0 +1,4 @@
+# 本地交互前端（Streamlit）
+# 建议 Python 3.10+；安装：pip install -r frontend/requirements.txt
+# 运行：cd src && streamlit run frontend/app.py
+streamlit>=1.32
